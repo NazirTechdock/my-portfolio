@@ -117,7 +117,7 @@ export default function Home() {
       >
         <div>
           <h1 className="text-3xl font-bold">Hello There,</h1>
-          <h1 className="text-3xl font-bold">I'm Nazir Ali Siddiqui</h1>
+          <h1 className="text-3xl font-bold">I&apos;m Nazir Ali Siddiqui</h1>
           <h1 className="text-3xl font-bold" style={{ color: "#64d2de" }}>
             ReactJs Developer
           </h1>
